@@ -12,6 +12,11 @@ import br.com.ranking.classes.GunType;
 import br.com.ranking.classes.Match;
 import br.com.ranking.classes.Player;
 
+/** 
+ * Classe principal para execução da aplicação
+ * Necessário executar o método main como uma JavaApplication
+ */
+
 public class Game {
 	
 	private static final Long INITIAL_MATCH = 11348964L;
